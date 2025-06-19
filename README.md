@@ -36,6 +36,8 @@ During the development of this project, I learned and practiced the following co
 
 Download the APK File from the [Releases](#) section and install it on your Android device.
 
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/john-dalton-27/Infinity_runner/releases/download/v1.0/Infinite.Runner1.0.apk)
+
 ## Credits
 
 Created by [John Dalton](github.com/john-dalton-27)
