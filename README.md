@@ -17,6 +17,9 @@ During the development of this project, I learned and practiced the following co
 - Troubleshooting and resolving common mobile build issues
 
 ## Screenshots
+![Gameplay 1](Assets/Screenshots/ir1.png)
+![Gameplay 2](Assets/Screenshots/ir2.png)
+![Gameplay 3](Assets/Screenshots/ir3.png)
 
 ## Features
 
